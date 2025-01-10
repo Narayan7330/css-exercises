@@ -1,0 +1,26 @@
+.all_odd {
+
+  background-color: rgb(from rgb(225, 98, 98) r g b);
+font-family: Verdana, GenevaDejaVu Sans, Tahoma, sans-serif;
+}
+
+#second-element {
+
+color: blue;
+font-size: 36px;
+
+}
+
+.third-element {
+
+
+font-size: 24px;
+
+}
+
+#fourth-element {
+
+background-color: rgb(95, 228, 75);
+font-size: 24px;
+font-weight: bold;
+}
